@@ -1,0 +1,2 @@
+# Rare Commands
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/realnaseerkhan/Rare ; cd Rare ; python2 Rare.py
